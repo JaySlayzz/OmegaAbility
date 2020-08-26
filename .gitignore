@@ -1,0 +1,9 @@
+
+.classpath
+.gitattributes
+.project
+.settings/org.eclipse.jdt.core.prefs
+bin/me/OmegaDevelopment/OmegaAbility/Chat/ChatHandler.class
+bin/me/OmegaDevelopment/OmegaAbility/Events/InvisEvent.class
+bin/me/OmegaDevelopment/OmegaAbility/Items/InvisSack.class
+bin/me/OmegaDevelopment/OmegaAbility/Main.class
